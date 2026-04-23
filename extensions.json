@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-python.vscode-python-envs",
+        "ms-python.black-formatter",
+        "docsmsft.docs-markdown",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "ms-python.debugpy"
+    ]
+}
